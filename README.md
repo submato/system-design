@@ -7,7 +7,13 @@
 
 (请在支付订单备注你的邮箱，pdf将发送到备注的邮箱中； 工作日将在2个小时内发送到你的邮箱，发送时间10:00 - 22:00，节假日在22点统一发送)
 
-<img width="466" alt="image" src="https://github.com/submato/system-design/assets/55040284/52539886-2bee-4f47-aa5a-27903a64ac0c">
+> 关于退款
+
+如果您对PDF不满意，请按照以下格式回复邮件，作者将为您全额退款
+
+使用备注的邮箱回复邮件，付款订单截图(必需) + 不满意原因(非必需)
+
+二维码：<img width="466" alt="image" src="https://github.com/submato/system-design/assets/55040284/52539886-2bee-4f47-aa5a-27903a64ac0c">
 
 
 ## 1. 商城秒杀：
