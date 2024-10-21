@@ -1,5 +1,8 @@
+作者创建了高质量的系统设计仓库，欢迎star：https://github.com/submato/system-design-pro
+
 # system-design
 后端面试 场景题、程序设计题
+
 
 列举了5个经典的场景题/程序设计题，学会这几个场景的系统设计题，大部分场景题一定可以轻松pass，即使不在这五个场景里，知识也是通用的。
 
